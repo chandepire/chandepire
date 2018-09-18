@@ -1,0 +1,8 @@
+
+1.a = np.zeros((10,10),dtype=np.int8)
+2.type(a)
+3.type(a[0,0])
+4.a.shape
+5.a.size#数据总数
+6.len(a.shape)#求维度
+7.
